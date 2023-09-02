@@ -11,7 +11,7 @@ export default function Projects() {
       descr:
         "React & React DOM | React Router DOM | React Toastify | Create React App (react-scripts) | gh-pages",
       image: `${process.env.PUBLIC_URL}/images/book.png`,
-      ghPages: "https://valeriakul.github.io/book-react/",
+      ghPages: "https://valeriakul.github.io/book/",
       code: "https://github.com/ValeriaKul/book",
     },
     {
