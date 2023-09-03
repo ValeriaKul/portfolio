@@ -36,7 +36,7 @@ export default function Projects() {
       descr:
         "React | Redux & React-Redux | React Router DOM | React Icons | Axios | React Toastify | Node Sass |  ",
       image: `${process.env.PUBLIC_URL}/images/garden.png`,
-      ghPages: "https://valeriakul.github.io/TODO-react/",
+      ghPages: "https://garden-react.vercel.app/",
       code: "https://github.com/ValeriaKul/GardenReact",
     },
     {
