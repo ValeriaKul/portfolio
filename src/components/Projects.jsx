@@ -44,7 +44,7 @@ export default function Projects() {
       title: "TBStore",
       descr: "React | Redux & Redux Thunk | React Router DOM | React Icons",
       image: `${process.env.PUBLIC_URL}/images/tbstore.png`,
-      ghPages: "https://valeriakul.github.io/TODO-react/",
+      ghPages: "https://tb-store.vercel.app/",
       code: "https://github.com/ValeriaKul/TBStore",
     },
     {
