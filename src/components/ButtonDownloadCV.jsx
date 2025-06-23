@@ -15,5 +15,6 @@ export default function ButtonDownloadCV() {
     <button className='btn_download' onClick={downloadCV}>
         {t('Download CV')}
     </button>
+    
   )
 }
